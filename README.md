@@ -20,7 +20,7 @@ This is a solution to the [Maker pre-launch landing page challenge on Frontend M
 
 ### Links
 
-- Live Site URL: [Github live page](https://chkhikvadzeg.github.io/skilled-elearning-landing-page/)
+- Live Site URL: [Github live page](https://oto061.github.io/skilled-elearning-landing-page/)
 
 ## My process
 
@@ -29,11 +29,10 @@ This is a solution to the [Maker pre-launch landing page challenge on Frontend M
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- grid
 - Mobile-first workflow
 
 ## Author
 
-- GitHub - [@oto061]()
-- Linkedin - [@Otari Phretsuashvili]()
+- GitHub - [@oto061](https://github.com/oto061)
+- Linkedin - [@Otari Phretsuashvili](https://www.linkedin.com/in/otari-phretsuashvili-8a6358245/)
 
